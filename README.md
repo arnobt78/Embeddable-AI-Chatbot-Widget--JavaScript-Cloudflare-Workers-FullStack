@@ -6,7 +6,7 @@ A production-ready, embeddable AI chatbot widget powered by Cloudflare Workers, 
 
 - **Production-Live:** [https://www.arnobmahmud.com/](https://www.arnobmahmud.com/)
 
-<img width="1828" height="832" alt="Screenshot 2026-01-25 at 15 10 10" src="https://github.com/user-attachments/assets/62c0b8eb-0d6c-416f-b6df-cc223b816a6e" />
+![Screenshot 2026-01-25 at 15 10 10](https://github.com/user-attachments/assets/62c0b8eb-0d6c-416f-b6df-cc223b816a6e)
 
 ## 📋 Table of Contents
 
